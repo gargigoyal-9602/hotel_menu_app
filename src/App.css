@@ -1,0 +1,10 @@
+.app {
+  background-color: black;
+  display: grid;
+  place-items: center;
+}
+
+.app__body {
+  display: flex;
+  width: 90vw;
+}
